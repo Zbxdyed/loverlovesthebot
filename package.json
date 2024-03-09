@@ -1,0 +1,26 @@
+{
+  "name": "colomonkev3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3",
+    "moment": "^2.29.2",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3",
+    "simply-djs": "^2.5.2",
+    "spud.js": "^1.2.15"
+  },
+  "devDependencies": {
+    "node": "^16.14.2"
+  },
+  "description": ""
+}
